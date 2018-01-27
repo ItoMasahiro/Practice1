@@ -10,3 +10,7 @@ def randlist(size,lower=0,upper=100):
 
 resli = randlist(10,upper=12,lower=10)
 print(resli)
+
+print("これでコミットできるかな？")
+
+#  gitコミットテスト!
